@@ -1,5 +1,5 @@
 ### Page Object Model as Architecture for Maven-Selenium Project
-- Automation test suite for Web Application
+- Automation test suite for Web Application.
 
 ### Key Feature
 1. Java 8
